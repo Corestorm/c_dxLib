@@ -1,8 +1,4 @@
---[[
-***
-welcome to hell , coNolel's DxLib 
-***
-]]
+
  scW,scH = guiGetScreenSize ()
 
  screenW, screenH = guiGetScreenSize()
