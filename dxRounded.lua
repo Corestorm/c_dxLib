@@ -1,7 +1,4 @@
--- // 256 1st
--- // 128 second circles
--- //  64 3rd circles
--- //  32 4th
+
   function dxLibDrawRoundedRectangle(x, y ,w , h, length, color, postgui)
 	length = length or 4.1
 	dxDrawImageSection(x,y,w/2,h,  256, 0, 65 ,  129, "img/circles.png",0,0,0,color,postgui)
